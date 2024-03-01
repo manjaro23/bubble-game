@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?import javafx.scene.*?><?import javafx.collections.*?><?import javafx.scene.layout.*?><?import javafx.scene.control.*?><?import javafx.scene.text.*?><?import javafx.scene.image.*?><?import javafx.scene.shape.*?><?import javafx.scene.paint.*?><?import javafx.scene.web.*?><?import javafx.geometry.*?><?import java.lang.*?><?import org.develnext.jphp.ext.javafx.classes.data.*?><?import org.develnext.jphp.ext.javafx.support.*?><?import org.develnext.jphp.ext.javafx.support.control.*?><?import org.develnext.jphp.ext.game.support.*?><AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" AnchorPane.bottomAnchor="0" AnchorPane.leftAnchor="0" AnchorPane.rightAnchor="0" AnchorPane.topAnchor="0" focusTraversable="false" id="" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480" prefWidth="640" styleClass="">
+  <children>
+    <ImageViewEx autoSize="false" centered="false" focusTraversable="false" height="480" id="image" layoutX="0" layoutY="0" mosaic="false" mosaicGap="0" proportional="false" stretch="true" styleClass="" textFill="#000000" width="640">
+      <font>
+        <Font name="System Regular" size="12"/>
+      </font>
+    </ImageViewEx>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle5" layoutX="128" layoutY="96" radius="32" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle5" visible="1"/>
+    <Data cursor="DEFAULT" enabled="1" id="data-image" image=".data/img/sea-coast-water-nature-ocean-horizon-cloud-sky-sunlight-morning-wave-dawn-atmosphere-dusk-environment-reflection-flight-haze-blue-surface-marine-backdrop-atmospheric-phenomenon-atmosphere-of-earth-740002.jpg" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle" layoutX="344" layoutY="224" radius="32" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circleAlt" layoutX="384" layoutY="112" radius="32" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circleAlt" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle3" layoutX="144" layoutY="280" radius="32" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle3" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle4" layoutX="568" layoutY="80" radius="32" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle4" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle6" layoutX="568" layoutY="344" radius="32" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle6" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle7" layoutX="216" layoutY="168" radius="32" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle7" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle8" layoutX="312" layoutY="360" radius="32" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle8" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle9" layoutX="528" layoutY="208" radius="32" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle9" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle10" layoutX="288" layoutY="48" radius="32" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle10" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle11" layoutX="104" layoutY="408" radius="32" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle11" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle12" layoutX="112" layoutY="168" radius="16" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle12" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle13" layoutX="240" layoutY="272" radius="16" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle13" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle14" layoutX="448" layoutY="184" radius="16" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle14" visible="1"/>
+    <Circle fill="#cce6ffc0" focusTraversable="false" id="circle15" layoutX="456" layoutY="304" radius="16" stroke="#b3ccff" strokeType="INSIDE" strokeWidth="2" styleClass=""/>
+    <Data cursor="DEFAULT" enabled="1" id="data-circle15" visible="1"/>
+  </children>
+</AnchorPane>

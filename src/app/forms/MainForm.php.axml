@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="MainForm">
+    
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+  <method name="doCircle5ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircleClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircleAltClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircle3ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircle4ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircle6ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircle7ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircle8ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircle9ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircle10ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircle11ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircle12ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircle13ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircle14ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+    <method name="doCircle15ClickLeft">
+      <elementHide object="~sender" object-type="object"/>
+      <sleep sync="" sync-type="" value="1000" value-type="integer"/>
+      <elementShow object="~sender" object-type="object"/>
+    </method>
+  </class>
+</root>
